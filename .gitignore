@@ -1,0 +1,24 @@
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Personal Claude settings
+CLAUDE.md
+README.md
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+How to use it right now.md
+keyword_taxonomy.py
+list_of_politicians.md
+Monitoring Keywords by Topic.md
+politicians.py
+process_mentions.py
+process_topic_mentions.py
