@@ -626,7 +626,7 @@ with tab_audience:
         st.warning("No data for this channel type.")
         st.stop()
 
-    from process_audience_insights import MONTHS as _AI_MONTHS
+    _AI_MONTHS = 12
     st.caption(
         f"Based on the last {_AI_MONTHS} months of data · "
         f"{len(ai):,} channels in this view"
