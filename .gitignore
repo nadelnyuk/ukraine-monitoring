@@ -16,10 +16,8 @@ README.md
 .env
 
 How to use it right now.md
-keyword_taxonomy.py
 kozey_shared_components.py
 list_of_politicians.md
-Monitoring Keywords by Topic.md
 politicians.py
 process_audience_insights.py
 process_mentions.py
