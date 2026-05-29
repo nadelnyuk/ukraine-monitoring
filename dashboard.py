@@ -2,10 +2,9 @@
 dashboard.py — Streamlit dashboard for Ukraine Telegram monitoring.
 
 Tabs:
-  1. About              — methodology, dataset stats
-  2. Politician Mentions — reads mentions.csv + mentions_by_type.csv
-  3. Keywords           — reads topic_mentions.csv + shows keyword definitions
-  4. Audience Insights  — reads audience_insights.csv
+  1. Politician Mentions — reads mentions.csv + mentions_by_type.csv
+  2. Keywords           — reads topic_mentions.csv + shows keyword definitions
+  3. Audience Insights  — reads audience_insights.csv
 
 Run locally:
     streamlit run dashboard.py
@@ -31,7 +30,6 @@ st.set_page_config(
 # ─── Methodology text ─────────────────────────────────────────────────────────
 # Boss will provide this text. Paste it between the triple-quotes below.
 
-METHODOLOGY_TEXT: str = ""
 
 # ─── Ukrainian → English name mapping ────────────────────────────────────────
 
@@ -202,42 +200,12 @@ CATEGORY_LABELS = {
 
 # ─── Tabs ─────────────────────────────────────────────────────────────────────
 
-tab_about, tab_politicians, tab_keywords, tab_audience = st.tabs([
-    "ℹ️ About",
+tab_politicians, tab_keywords, tab_audience = st.tabs([
     "📰 Politician Mentions",
     "🔍 Keywords",
     "📡 Audience Insights",
 ])
 
-
-# ══════════════════════════════════════════════════════════════════════════════
-# TAB — About
-# ══════════════════════════════════════════════════════════════════════════════
-
-with tab_about:
-    st.title("Ukraine Telegram Monitoring Dashboard")
-
-    if METHODOLOGY_TEXT:
-        st.markdown(METHODOLOGY_TEXT)
-    else:
-        st.info("Methodology paragraph coming soon.")
-
-    st.markdown("---")
-    st.subheader("Dataset Overview")
-
-    _df_raw = load_mentions()
-    _tm = load_topic_mentions()
-
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        st.metric("Telegram Channels Tracked", f"{_tm['username'].nunique():,}")
-    with col2:
-        kw_posts = int(_tm["post_count"].sum())
-        st.metric("Keyword-Matching Posts", f"{kw_posts:,}")
-    with col3:
-        date_start = _df_raw["date"].min().strftime("%b %d, %Y")
-        date_end = _df_raw["date"].max().strftime("%b %d, %Y")
-        st.metric("Date Range", f"{date_start} — {date_end}")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
