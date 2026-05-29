@@ -193,11 +193,11 @@ CATEGORY_COLS = ["political", "electoral", "military", "economy", "religion", "i
 
 CATEGORY_LABELS = {
     "political": "Political",
-    "electoral": "Electoral",
-    "military": "Military",
+    "electoral": "Electoral Processes and Legitimacy",
+    "military": "Military and Mobilization",
     "economy": "Economy",
-    "religion": "Religion & Language",
-    "international": "International",
+    "religion": "Religion and Linguistic Division",
+    "international": "International Relations and Support",
 }
 
 # ─── Tabs ─────────────────────────────────────────────────────────────────────
