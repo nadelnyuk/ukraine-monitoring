@@ -365822,3 +365822,634 @@ date,username,category_id,category,subcategory_id,subcategory,post_count
 2026-10-20,u_live,4,Economy,4.2,Energy infrastructure as state failure signal,1
 2026-10-20,u_live,1,Political,1.3,Corruption and governance failure,1
 2026-10-20,politkraina,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,readovkanews,1,Political,1.4,Political opposition suppression,3
+2026-10-21,readovkanews,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,rybar,3,Military and Mobilization,3.2,Military morale and treatment of soldiers,1
+2026-10-21,rybar,1,Political,1.4,Political opposition suppression,2
+2026-10-21,MID_Russia,1,Political,1.4,Political opposition suppression,3
+2026-10-21,MID_Russia,5,Religion and Linguistic Division,5.2,Linguistic division,1
+2026-10-21,SolovievLive,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,SolovievLive,1,Political,1.4,Political opposition suppression,1
+2026-10-21,moscowach,1,Political,1.4,Political opposition suppression,1
+2026-10-21,toporlive,1,Political,1.4,Political opposition suppression,1
+2026-10-21,mash,1,Political,1.4,Political opposition suppression,2
+2026-10-21,smi_rf_moskva,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,ostorozhno_novosti,1,Political,1.4,Political opposition suppression,2
+2026-10-21,bbbreaking,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,dva_majors,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ria_novosti_russiya,1,Political,1.4,Political opposition suppression,1
+2026-10-21,meduzalive,1,Political,1.4,Political opposition suppression,3
+2026-10-21,meduzalive,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,rbc_news,1,Political,1.4,Political opposition suppression,2
+2026-10-21,rbc_news,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ru2ch,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ru2ch,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,proofzzz,1,Political,1.4,Political opposition suppression,1
+2026-10-21,tass_agency,1,Political,1.4,Political opposition suppression,1
+2026-10-21,infomoscow24,1,Political,1.4,Political opposition suppression,1
+2026-10-21,tass_agency,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,slavaded1337,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,tvrain,1,Political,1.4,Political opposition suppression,3
+2026-10-21,mozhemobyasnit,1,Political,1.4,Political opposition suppression,2
+2026-10-21,chtddd,1,Political,1.4,Political opposition suppression,2
+2026-10-21,tvrain,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,OstashkoNews,1,Political,1.4,Political opposition suppression,7
+2026-10-21,truexanewsua,1,Political,1.4,Political opposition suppression,1
+2026-10-21,truexanewsua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,OstashkoNews,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,N_NO_F,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,times_ukraina,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,times_ukraina,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,insiderUKR,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,insiderUKR,1,Political,1.4,Political opposition suppression,1
+2026-10-21,lachentyt,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kievreal1,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,advocatprava7,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,UaOnlii,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,voynareal,1,Political,1.4,Political opposition suppression,1
+2026-10-21,NovynaUKR,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,voynareal,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,voynareal,4,Economy,4.2,Energy infrastructure as state failure signal,2
+2026-10-21,ukraina_novosti,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,novynu_ukraina,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,novini_ukrtg,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,novini_ukrtg,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,kievinfo_kyiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,oko_ua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,odessa_infonews,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,tgsn_ua,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,xydessa,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,rezident_ua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ssternenko,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,shv_ukr,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,shv_ukr,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukrbavovna,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,TCH_channel,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,TCH_channel,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,mandarinmedia_news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,UPG_official,1,Political,1.4,Political opposition suppression,1
+2026-10-21,UPG_official,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,uanova,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,uanova,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,ukr_2025_ru,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",2
+2026-10-21,mosiychuk72,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,ukr_2025_ru,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,smolii_ukraine,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,antikor,1,Political,1.3,Corruption and governance failure,7
+2026-10-21,huyovy_kharkiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kyiv_golovne,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,lvivych_news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukrinformator,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukrinformator,1,Political,1.4,Political opposition suppression,1
+2026-10-21,bayranews,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,our_odessa,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,bayranews,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,polytica_novyny,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,truexadnepr,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,sheyhtamir1974,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,liniaFaktiv,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,operativnoZSU,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,VasiletsDmitriy,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,stranaua,1,Political,1.3,Corruption and governance failure,10
+2026-10-21,stranaua,1,Political,1.4,Political opposition suppression,5
+2026-10-21,ua_onnews,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Tsaplienko,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,informer_ukraine,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,ukr_shvydko,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ukr_shvydko,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,informer_ukraine,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,odessapublic,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,khmlv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dmytrogordon_official,1,Political,1.4,Political opposition suppression,2
+2026-10-21,dmytrogordon_official,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,kyiv_hey,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,guraanton,1,Political,1.4,Political opposition suppression,2
+2026-10-21,guraanton,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,svoiKR,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,suspilnenews,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,uanewsstream,1,Political,1.3,Corruption and governance failure,7
+2026-10-21,uanewsstream,1,Political,1.4,Political opposition suppression,1
+2026-10-21,kyiv_xy,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,odesatruexa,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,bavovna_ua_tb,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukraina_nowosti,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,AleksandrSemchenko,1,Political,1.4,Political opposition suppression,1
+2026-10-21,BDSN_novyny,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,blyskavka_ua,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,kyiv_dumon,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,oleksiihoncharenko,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,Sophist_UA,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,channel24_ua,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,ukrpravda_news,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,suspilnechernihiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Novoeizdanie,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,sumygo,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,info_zp,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,censor_net,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,advokatmillerua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,censor_net,1,Political,1.5,Media environment integrity,1
+2026-10-21,pravda_ukraineeee,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,vklyuchatel_dnepr_svet,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,vklyuchatel_dnepr_svet,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dubinskypro,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dubinskypro,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ukraine_18news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,sumyliketop,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,operatyvnohlep,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,absolutionleaks,1,Political,1.4,Political opposition suppression,1
+2026-10-21,absolutionleaks,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,truexakrivojrog,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,ZhenyokSay,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukr_informue,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,zahidwtf_official,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,agente_kyiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,gruntmedia,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,bro_revisor,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,publicreservestugna,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,publicreservestugna,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,publicreservestugna,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,BerezaJuice,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,suspilnesumy,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,novinach,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,otryadkovpaka,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",2
+2026-10-21,operinform,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,otryadkovpaka,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,spletnicca,1,Political,1.4,Political opposition suppression,1
+2026-10-21,kaptuz,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,Lv1256,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,dnipro_informue,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,gdenlive,1,Political,1.4,Political opposition suppression,1
+2026-10-21,dnipro_dnepr2,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,polityka_novyny,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,polityka_novyny,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ponomarb1,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,dnipro_informue,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,pravda_DS,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,nabludatels,1,Political,1.4,Political opposition suppression,1
+2026-10-21,dnipro_main,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,centerUKR,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,newsgrpua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,veteran_dopoviday,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,brosok_mangusta,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,first_political,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ekrd_glavniy,1,Political,1.4,Political opposition suppression,1
+2026-10-21,XU_kraine,1,Political,1.4,Political opposition suppression,1
+2026-10-21,politycan,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,goodchernivtsi,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,foxynew,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,lvov_lviv2,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,torontotv,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,zaborzp,1,Political,1.5,Media environment integrity,1
+2026-10-21,truexanewsua_ru,1,Political,1.4,Political opposition suppression,5
+2026-10-21,truexanewsua_ru,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,the_military_analytics,1,Political,1.4,Political opposition suppression,1
+2026-10-21,gistapapapa,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,svoboda_radio,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,povestki_kryvyi_rih,1,Political,1.4,Political opposition suppression,1
+2026-10-21,hromadske_ua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,newspn,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,povestki_kryvyi_rih,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,ukraine_newsua0,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,ukraine_newsua0,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kolobok_odesa,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,kolobok_odesa,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ukr_leaks,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ukr_leaks,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukr_leaks,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,newspn,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,skosoi,1,Political,1.4,Political opposition suppression,2
+2026-10-21,MihaChaplyha,1,Political,1.4,Political opposition suppression,1
+2026-10-21,yzheleznyak,1,Political,1.3,Corruption and governance failure,6
+2026-10-21,yzheleznyak,1,Political,1.4,Political opposition suppression,2
+2026-10-21,oboronaukr,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,otherukraine,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,news_kramatorsk,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukr_golovne,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,ukr_golovne,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,OP_employee,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,trybunabrovary,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,infovisti,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,dnepr_pravyy_bereg,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,kyivoda,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,kiev007,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dnepr_levyy_bereg,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,Operatyvnyi_Donbas,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,alexavni,1,Political,1.4,Political opposition suppression,1
+2026-10-21,te20hvylyn,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,te20hvylyn,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kharkivenergy,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,galkaifuanews,1,Political,1.4,Political opposition suppression,1
+2026-10-21,babel,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,chervonazona,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Ukr_G_M,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,suspilne_vinnytsia,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,onekrua1,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,RBC_ua_news,1,Political,1.3,Corruption and governance failure,6
+2026-10-21,RBC_ua_news,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,cxidua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukrainavshoke_repost,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,pershiynarodnuy,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,tviy_dniproo,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,news_sumy24,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,sheptoon,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,kiev_insider,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,sheptoon,1,Political,1.4,Political opposition suppression,1
+2026-10-21,konkurentinua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,konkurentinua,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,tipove_rivne,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,poltava_informue,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,lviv_lmbrg,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,zvizdecmanhustu,1,Political,1.4,Political opposition suppression,1
+2026-10-21,volyn_news,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,volyn_news,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,donrf22,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,realukrainereal,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,novynylive,1,Political,1.3,Corruption and governance failure,9
+2026-10-21,place_kharkiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,napovestkeKh,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,priluki,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,uaobozrevatel,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,vartoviy_ukr,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Multlichnosti_1,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukrainian_militant,1,Political,1.4,Political opposition suppression,1
+2026-10-21,glavnoe_odessa,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,tviy_KryvyiRih,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,Ukraine_365News,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,novynypravdy,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,teleTKACH,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,tvoe_v_v,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,checity,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,pershiy_ukr,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,napovestkeDn,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,napovestkeDn,1,Political,1.4,Political opposition suppression,1
+2026-10-21,bihusinfo,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,znua_live,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,tgp_news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,varta1,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,tenewter,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,FAKTY_ICTV,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,poluavtobia,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,UA_1NEWS,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,poluavtobia,1,Political,1.4,Political opposition suppression,5
+2026-10-21,poluavtobia,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,uarevizor,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Odessaonduty1,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukrainska_rada_zmi,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,poluavtobia,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,babusya_svitusya,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ha_golovne,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,bbcukrainian,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,channel5UA,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,kiev_info0,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,kiev_info0,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,cherkasy_informue,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,tryvoga_rakety,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,getmantsevdanil,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,lovechernihiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Kharkov_Perviy,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,Kharkov_Perviy,1,Political,1.4,Political opposition suppression,2
+2026-10-21,izyum_live_news,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,KyivSegodna,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,Genichesk_ru,1,Political,1.4,Political opposition suppression,1
+2026-10-21,kryvyi_rih_times,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,vidsichu,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,inshadumka,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,espresotb,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,Forbes_Ukraine_official,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,avariukaxarkiv,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,UkrainaCHP,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,nvua_official,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,UkrainaTut1,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,nikolaev,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kypernews,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,svodkidpr180,1,Political,1.4,Political opposition suppression,1
+2026-10-21,khmel_informue,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,krop_informue,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,khmel_informue,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,nab_ukraine,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,tsvtiraspol,1,Political,1.4,Political opposition suppression,1
+2026-10-21,uzhlive,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,taktychna_rukavuchkaa,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,mykolaiv_informue,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dnipropetrovskaODA,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,suspilnekropyvnytskyi,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,Chornovil_official,1,Political,1.4,Political opposition suppression,1
+2026-10-21,Chornovil_official,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,avariukamk,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,Operativ_luga_channel,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,baza_houston,1,Political,1.4,Political opposition suppression,1
+2026-10-21,AndriyuKK,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,AndriyuKK,1,Political,1.4,Political opposition suppression,1
+2026-10-21,vklochok,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,konstachaa,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,vechirnij_lutsk,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,zakrytazona,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,suspilnemykolaiv,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,luchyk_info,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,luchyk_info,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,srochno_melitopoll,1,Political,1.4,Political opposition suppression,1
+2026-10-21,dragonspech,1,Political,1.4,Political opposition suppression,1
+2026-10-21,dragonspech,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,xk_krop,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,KrokooDil,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,liganet,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,liganet,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,politika_ua01,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,andriiostand_blog,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,odeskaODA,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,novyny_tyt,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukrain1an_news,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,VictoryDrones,1,Political,1.4,Political opposition suppression,1
+2026-10-21,weukrainetv,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,news_pavlograd,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kamianets,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,bayrep_kh,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,plinskiymedia,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,glavrednet,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,kurs_if,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,glavrednet,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,khmel_golovne,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,slonfmua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dnipro_svet,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,worldwar_ua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,prufzp,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,novyny_ukrainski,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,reporter_ukraine,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,rrrteeeeed,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,huevuy_nmsk,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,D7_channel,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,ukrinform_news,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,ukrinform_news,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,brovary00001k,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,headliines,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,inform_odesa,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kellerfm,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,donbass_pokrovsk,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,suspilnezaporizhzhya,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,tgnews_ua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,poznyakyosokorkykharkivskiy,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,InfoAgents,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kyrychenko_khm,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,trulymob,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,VoiceCrimea,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,putch111,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,UKRCHAN,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,voskoboinikovaleksandr,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ianina_sokolova,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,harley_with_love,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,region_22ua,1,Political,1.5,Media environment integrity,1
+2026-10-21,Katimsya,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,smotrikoren,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,hrinovyny,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,blyskavka_kyiv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,right_to_life_and_protection,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Bayraktar_News_UA,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,pryluky_operative,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,mo3ambik_gpv_1,4,Economy,4.2,Energy infrastructure as state failure signal,3
+2026-10-21,chernivtsigram,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,oberezhnovibuhi,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,ua_shok,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,wassupukraine,1,Political,1.4,Political opposition suppression,2
+2026-10-21,Zhan_Novo,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Zhan_Novo,1,Political,1.4,Political opposition suppression,1
+2026-10-21,bykvu,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,gordonuacom,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,od_poskot,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,goncharenkocentre,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,vata_show,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,NSDVDnepre,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,polonskynews,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,ENOVUNA,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,pravdivy_nikolaev,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,e_p_2026,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,khm_gov_ua,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,Chennel_33TV,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,riamelitopolua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,politicalua3,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,fuckcorruption,1,Political,1.3,Corruption and governance failure,5
+2026-10-21,fuckcorruption,1,Political,1.4,Political opposition suppression,1
+2026-10-21,onlybanks_ukraine,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,DerhachiLIVE,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,MaxBuzhanskiy,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,yaroslavivval,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,XNRRussia,1,Political,1.4,Political opposition suppression,1
+2026-10-21,sumy_2022_ua,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,zolochivt,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,slavuta_sity,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,xameleon_ua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,VREMENi_NE_T,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukr_pravda,1,Political,1.4,Political opposition suppression,1
+2026-10-21,glavcomua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,shotam18000,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,shotam18000,5,Religion and Linguistic Division,5.1,Religious persecution framing,1
+2026-10-21,chernihiv_golovne_ua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,mariupolrada,2,Electoral Processes and Legitimacy,2.2,Displaced electorate and representational legitimacy,1
+2026-10-21,NAZK_gov_ua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,bryhynets,1,Political,1.4,Political opposition suppression,1
+2026-10-21,bryhynets,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,bryhynets,1,Political,1.5,Media environment integrity,1
+2026-10-21,rozumaha,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,energyobl,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,irpin_oblast,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,eu4uk,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,eu4uk,1,Political,1.4,Political opposition suppression,1
+2026-10-21,OdessaRussi,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,lutsk_insider,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,DonUkraine,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,korabelov_info,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,chernivtsigram_chernivtsi24,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kropyvnytskyi_insider,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,chernivtsi_golovne_ua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Anoncinews,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,allgolobutsky,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,KryvyiRih1775,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,sbronik,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,typzp,1,Political,1.5,Media environment integrity,1
+2026-10-21,NazarPrykhodkoPlus,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,pokrovsk_news,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,other_nikopol,1,Political,1.4,Political opposition suppression,1
+2026-10-21,NewsUkraine_2022,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,investigation_hub,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,bankovamail,1,Political,1.3,Corruption and governance failure,9
+2026-10-21,porohobotchenko,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,bankovamail,1,Political,1.4,Political opposition suppression,2
+2026-10-21,nachasi_news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Telegraf_UA_channel,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Telegraf_UA_channel,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,Yermakdefencegroup,1,Political,1.4,Political opposition suppression,3
+2026-10-21,odknijka,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,nusspavlo,1,Political,1.4,Political opposition suppression,2
+2026-10-21,nusspavlo,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ppo_odessa_live,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,istrebin,1,Political,1.4,Political opposition suppression,1
+2026-10-21,khymera_snidanok,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,relikt_news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,brov_today,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,vnsnua,1,Political,1.3,Corruption and governance failure,10
+2026-10-21,cukrcity,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,DIES2022,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,zakarpattia_golovne,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,podslushano_zmiev,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Kartatverog,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,MyroslavSolonar,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,DedXORT,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,borodatayaba,1,Political,1.4,Political opposition suppression,1
+2026-10-21,borodatayaba,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,plitki_v_nizhyni,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ukrainenewslivee,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,hueviykiev,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,volodymyrboyko,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,volodymyrboyko,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,frontukrua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,UAparlament,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,east_front,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,officialeurosolidarity,1,Political,1.5,Media environment integrity,1
+2026-10-21,mo3ambik_gpv_6,4,Economy,4.2,Energy infrastructure as state failure signal,3
+2026-10-21,dmytro_chekalkyn,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,AnatoliyAmelin,1,Political,1.4,Political opposition suppression,1
+2026-10-21,epravda,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,zinkevich_igor,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,poltava_to,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,radiotrek,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,mo3ambik_gpv_5,4,Economy,4.2,Energy infrastructure as state failure signal,4
+2026-10-21,konkretnost,1,Political,1.4,Political opposition suppression,1
+2026-10-21,bila_tserkva_insider,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,TimesOfUkrain,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,vklymchuk,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kadroland,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukralnehere,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ukralnehere,1,Political,1.4,Political opposition suppression,1
+2026-10-21,ternopilskaODA,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,sanatoriy_satany,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,BoroshnoNews,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,focusukraine,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,buro_vn,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,mkpost,1,Political,1.4,Political opposition suppression,6
+2026-10-21,kamianets_podilskiy,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,mkpost,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,nikalert,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,tipukraine,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ternopil_best,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,VolynSN,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,nikalert,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,mo3ambik_gpv_6_2,4,Economy,4.2,Energy infrastructure as state failure signal,3
+2026-10-21,suspilne_uzhhorod,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,mo3ambik_gpv_2,4,Economy,4.2,Energy infrastructure as state failure signal,3
+2026-10-21,apostolovelive,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Krippa21,1,Political,1.4,Political opposition suppression,2
+2026-10-21,Krippa21,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,kupol_radar,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,yuzhoborona,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,cxemu,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,irpin_night,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,NSDVKieve,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,stepstateua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ZACARPATHIANS,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,mariupol24tv,1,Political,1.4,Political opposition suppression,2
+2026-10-21,mo3ambik_gpv_4,4,Economy,4.2,Energy infrastructure as state failure signal,2
+2026-10-21,OstapDrozdovOfficial,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,centuriaua,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,Lampochka_odesa,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,slavyanskbest,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kramatorsk_info_slavyansk,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,odessacitynews1,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,odessacitynews1,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,Zlopidsvitlom,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,mo3ambik_gpv_2_2,4,Economy,4.2,Energy infrastructure as state failure signal,3
+2026-10-21,kamenskoenews,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,ombr72,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,rightbankua,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,rightbankua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,LapinFromUkraine,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,malyn_inform,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kanal33_news,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,petropavlivkacity,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,lvivmedia,1,Political,1.4,Political opposition suppression,1
+2026-10-21,metaua_new,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,news_pershotravensk,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,moyaodessa,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,solovei_ihor,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,kodkamianets,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,trashikrinzh,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,khreschatyk36,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,YuzhnyTG,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,peremoga_online,1,Political,1.4,Political opposition suppression,1
+2026-10-21,peremoga_online,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,peremoga_online,1,Political,1.5,Media environment integrity,1
+2026-10-21,nezlamni_980,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,sarny_informue,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,odessamonitoring,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,luhanskaVTSA,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,molniaua,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,Varjag2007,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,kryuchoktv,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,nacionalist_ua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,zaxidnet,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,dw_ukraina,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,sumy_nez,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,avolkov1234,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,nikopoldpua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,RadioLemberg,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Rubicon_A,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,ain_ukraine,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,novgorod_siverskiy_info,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,sichemo,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kherson_miskrada,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,ternovyny,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,bp_dn,1,Political,1.4,Political opposition suppression,1
+2026-10-21,odesa_tg,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,spravagromad,1,Political,1.4,Political opposition suppression,1
+2026-10-21,captain_parker,1,Political,1.4,Political opposition suppression,1
+2026-10-21,Ukrainci_v_Alicante,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,moilubny,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,teren_in_ua,1,Political,1.4,Political opposition suppression,1
+2026-10-21,rankoviykulyk,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,rankoviykulyk,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,kozakTv1,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,kozakTv1,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,OlehSymoroz,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,kozakTv1,1,Political,1.4,Political opposition suppression,1
+2026-10-21,buhcomua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Bugorgua,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,regina_harchenko,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,yamariupol_kyiv,2,Electoral Processes and Legitimacy,2.2,Displaced electorate and representational legitimacy,1
+2026-10-21,slavyansk_z,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,okulist_ua,1,Political,1.4,Political opposition suppression,1
+2026-10-21,gononstopukraine,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,hutua59,1,Political,1.4,Political opposition suppression,1
+2026-10-21,hutua59,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kievinform,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,LBua_official,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,LBua_official,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,Actualno_Symu,1,Political,1.4,Political opposition suppression,1
+2026-10-21,a24nonymous,4,Economy,4.2,Energy infrastructure as state failure signal,2
+2026-10-21,a24nonymous,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,LeshchenkoS,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,antonymist,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,detector_media,1,Political,1.5,Media environment integrity,1
+2026-10-21,napovestkeKi,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,napovestkeKi,1,Political,1.4,Political opposition suppression,1
+2026-10-21,reiters,1,Political,1.3,Corruption and governance failure,3
+2026-10-21,typova_znamyanka,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,zelyazradnik,5,Religion and Linguistic Division,5.3,"Bandera rehabilitation and ""De-Nazification"" narrative",1
+2026-10-21,zelyazradnik,1,Political,1.4,Political opposition suppression,3
+2026-10-21,zelyazradnik,1,Political,1.3,Corruption and governance failure,4
+2026-10-21,news_ternovka,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,Novynarnia,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,sumy0542,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,u_live,1,Political,1.4,Political opposition suppression,2
+2026-10-21,u_live,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kyivtv,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,politkraina,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kyivtv,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,kyivtv,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,corruptionfromua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,vchasnoua,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,sinelnikovoraion,1,Political,1.2,Authoritarian consolidation,1
+2026-10-21,Premiuminform,1,Political,1.3,Corruption and governance failure,2
+2026-10-21,ochi_zhv,4,Economy,4.2,Energy infrastructure as state failure signal,1
+2026-10-21,pan_nihto,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,pokrovsk_news1,1,Political,1.4,Political opposition suppression,1
+2026-10-21,mirgorod_online,1,Political,1.3,Corruption and governance failure,1
+2026-10-21,Liveposkot,3,Military and Mobilization,3.1,Mobilization inequity,1
+2026-10-21,lubny_insider,4,Economy,4.2,Energy infrastructure as state failure signal,1
